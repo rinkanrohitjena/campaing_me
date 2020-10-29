@@ -1,0 +1,236 @@
+politzf@gmail.com==================================================   01 active  ========================================================
+user name	parkerrohit93@gmail.com
+password	s3CbPpq9KF78
+
+
+95.111.252.97 7 
+95.111.252.98 /104
+
+255.255.240.0
+
+
+---> MySQL + phpMyAdmin
+    - Access to phpMyAdmin on http://billing-zone.com/phpmyadmin
+    - For: mailwizz and websites
+    - Internal user: root
+    - Password: volacool
+
+
+---> Mailwizz Installation
+     - Mailwizz Management Portal - http://billing-zone.com/mw/backend
+	 - Mailwizz Email Sending Portal - http://billing-zone.com/mw/frontend
+     - Username: admin@billing-zone.com 
+     - Password: admin1234 ###=== CHANGE AS SOON AS POSSIBLE ===###
+     
+
+---> SMTP data
+     - Email address: noreply@billing-zone.com
+     - User: noreply
+     - Password: vip7c0fcc5e4147
+
+
+
+
+
+
+
+
+wget https://www.dropbox.com/s/lkbwm8l6tetdf6e/certbot-auto.zip
+cd /etc/sysconfig/network-scripts/
+billing-selection.co
+
+
+ ============================================= 02  (active )=========================================================================
+ 
+    
+address 	https://my.contabo.com
+user name 	mrbobdog65@gmail.com
+password 	oK85rK4pgb8E
+
+
+
+
+billing-support.co
+
+144.91.71.39  
+95.111.250.167 /173 
+255.255.240.0
+    
+==================================================================================== 04 ======================================
+
+address	https://my.contabo.com
+user name	blacklinuxpanthers@gmail.com
+password	438j6R75xRJg
+
+ 	207.244.255.212
+ 	207.244.224.90/94
+	
+	240.0
+
+
+==================================================================  05  ============================================
+
+address	https://my.contabo.com
+user name	mtnirish@comcast.net
+password	gT43nNM6abMp
+
+
+
+
+207.244.225.163
+
+207.244.225.164/68
+
+240.0
+
+
+---> Mailwizz Installation
+     - Mailwizz Management Portal - http://billing-help.co/mw/backend
+         - Mailwizz Email Sending Portal - http://billing-help.co/mw/frontend
+     - Username: admin@billing-help.co 
+     - Password: admin1234 ###=== CHANGE AS SOON AS POSSIBLE ===###
+     
+
+---> SMTP data
+     - Email address: noreply@billing-help.co
+     - User: noreply
+     - Password: vipdde33fca17d3
+
+         - Receiving via IMAP: 
+         - Secure connection = STARTTLS / Port: 143
+
+     - Sending via SMTP:
+     - Insecure Connection / Port: 2525
+
+     - Webmail address: http://billing-help.co/webmail
+     - User: noreply
+     - Password: vipdde33fca17d3  
+         
+
+	
+
+billing-help.co
+
+
+=========================================================== 06 ========================================================
+address	https://my.contabo.com
+user name	jdmd333@juno.com
+password	9sioA5SPRKhk
+
+
+207.244.229.198 /202
+240.0
+
+
+=============================================================================================================================
+
+
+
+address	https://my.contabo.com
+user name	physique9087@gmail.com
+password	5msaAiXQ98Ko
+
+billing-section.co
+ 	62.171.187.128
+ 	161.97.81.237/241 255.255.192.0
+
+Mailwizz Installation
+     - Mailwizz Management Portal - http://billing-section.co/mw/backend
+	 - Mailwizz Email Sending Portal - http://billing-section.co/mw/frontend
+     - Username: admin@billing-section.co 
+     - Password: admin1234 ###=== CHANGE AS SOON AS POSSIBLE ===###
+     
+
+---> SMTP data
+     - Email address: billing@billing-section.co
+     - User: billing
+     - Password: vipd28afd5fe631
+
+	 - Receiving via IMAP: 
+ 	 - Secure connection = STARTTLS / Port: 143
+
+     - Sending via SMTP:
+     - Insecure Connection / Port: 2525
+
+     - Webmail address: http://billing-section.co/webmail
+     - User: billing
+     - Password: vipd28afd5fe631  
+	 
+	 - Reply Email Address
+	 - User: reply
+	 - Pass: reply*p5348*vip
+
+=====================================================================================================================
+
+
+address	https://my.contabo.com
+user name	randallscharer@aol.com
+password	8NP7qU397hPn
+billing-selection.co
+ 	213.136.83.155
+	 62.171.141.84/88 224.0
+
+Mailwizz Installation
+     - Mailwizz Management Portal - http://billing-selection.co/mw/backend
+	 - Mailwizz Email Sending Portal - http://billing-selection.co/mw/frontend
+     - Username: admin@billing-selection.co 
+     - Password: admin1234 ###=== CHANGE AS SOON AS POSSIBLE ===###
+     
+
+---> SMTP data
+     - Email address: billing@billing-selection.co
+     - User: billing
+     - Password: vipdc7369db7be3
+
+	 - Receiving via IMAP: 
+ 	 - Secure connection = STARTTLS / Port: 143
+
+     - Sending via SMTP:
+     - Insecure Connection / Port: 2525
+
+     - Webmail address: http://billing-selection.co/webmail
+     - User: billing
+     - Password: vipdc7369db7be3  
+	 
+	 - Reply Email Address
+	 - User: reply
+	 - Pass: reply*p5348*vip
+
+
+=============================================================================================================
+
+
+
+address	https://my.contabo.com
+user name	mlero9@aol.com
+password	A3Te4uL6BmcN
+
+billing-zone.co 
+ 	144.91.83.214
+ 	95.111.229.22/26 240.0
+Mailwizz Installation
+     - Mailwizz Management Portal - http://billing-zone.co/mw/backend
+	 - Mailwizz Email Sending Portal - http://billing-zone.co/mw/frontend
+     - Username: admin@billing-zone.co 
+     - Password: admin1234 ###=== CHANGE AS SOON AS POSSIBLE ===###
+     
+
+---> SMTP data
+     - Email address: billing@billing-zone.co
+     - User: billing
+     - Password: vip801a318798b8
+
+	 - Receiving via IMAP: 
+ 	 - Secure connection = STARTTLS / Port: 143
+
+     - Sending via SMTP:
+     - Insecure Connection / Port: 2525
+
+     - Webmail address: http://billing-zone.co/webmail
+     - User: billing
+     - Password: vip801a318798b8  
+	 
+	 - Reply Email Address
+	 - User: reply
+	 - Pass: reply*p5348*vip
+
